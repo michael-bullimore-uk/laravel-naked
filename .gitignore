@@ -1,2 +1,7 @@
 # PhpStorm
 /.idea/
+
+# Composer
+/laravel/public/.htaccess
+/laravel/storage
+/laravel/vendor
